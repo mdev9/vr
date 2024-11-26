@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://5hxtucwa3d4m"
+path="res://.godot/imported/block-grass-corner-overhang-low.obj-99e444dcc30e80c19a3622bb0ecb3aaf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-grass-corner-overhang-low.obj-99e444dcc30e80c19a3622bb0ecb3aaf.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/block-grass-corner-overhang-low.obj"
+dest_files=["res://.godot/imported/block-grass-corner-overhang-low.obj-99e444dcc30e80c19a3622bb0ecb3aaf.mesh", "res://.godot/imported/block-grass-corner-overhang-low.obj-99e444dcc30e80c19a3622bb0ecb3aaf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

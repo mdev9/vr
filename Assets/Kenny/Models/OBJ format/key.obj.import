@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bveyi5bh4ap21"
+path="res://.godot/imported/key.obj-5dcc0395bb1042b9bb0b8a4180cb1c99.mesh"
+
+[deps]
+
+files=["res://.godot/imported/key.obj-5dcc0395bb1042b9bb0b8a4180cb1c99.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/key.obj"
+dest_files=["res://.godot/imported/key.obj-5dcc0395bb1042b9bb0b8a4180cb1c99.mesh", "res://.godot/imported/key.obj-5dcc0395bb1042b9bb0b8a4180cb1c99.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

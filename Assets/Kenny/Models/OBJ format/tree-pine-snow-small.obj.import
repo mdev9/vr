@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://baxcdxn6pl4ea"
+path="res://.godot/imported/tree-pine-snow-small.obj-60f3ca4a1adc272561e8ab15d3e8e379.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree-pine-snow-small.obj-60f3ca4a1adc272561e8ab15d3e8e379.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/tree-pine-snow-small.obj"
+dest_files=["res://.godot/imported/tree-pine-snow-small.obj-60f3ca4a1adc272561e8ab15d3e8e379.mesh", "res://.godot/imported/tree-pine-snow-small.obj-60f3ca4a1adc272561e8ab15d3e8e379.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

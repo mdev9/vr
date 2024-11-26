@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dcm330stb6nrk"
+path="res://.godot/imported/arrows.obj-6ab13197c26601fd520b74938962e3bb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/arrows.obj-6ab13197c26601fd520b74938962e3bb.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/arrows.obj"
+dest_files=["res://.godot/imported/arrows.obj-6ab13197c26601fd520b74938962e3bb.mesh", "res://.godot/imported/arrows.obj-6ab13197c26601fd520b74938962e3bb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

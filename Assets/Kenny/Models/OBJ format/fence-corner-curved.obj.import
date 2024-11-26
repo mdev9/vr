@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://duxo8uaqyhvl5"
+path="res://.godot/imported/fence-corner-curved.obj-a7e3f59ada15955c5a360b770aa888c3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fence-corner-curved.obj-a7e3f59ada15955c5a360b770aa888c3.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/fence-corner-curved.obj"
+dest_files=["res://.godot/imported/fence-corner-curved.obj-a7e3f59ada15955c5a360b770aa888c3.mesh", "res://.godot/imported/fence-corner-curved.obj-a7e3f59ada15955c5a360b770aa888c3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

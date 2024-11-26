@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://1m0l6urtcsec"
+path="res://.godot/imported/ladder-broken.obj-5154409a6aecc5b4f04db05ac25b5742.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ladder-broken.obj-5154409a6aecc5b4f04db05ac25b5742.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/ladder-broken.obj"
+dest_files=["res://.godot/imported/ladder-broken.obj-5154409a6aecc5b4f04db05ac25b5742.mesh", "res://.godot/imported/ladder-broken.obj-5154409a6aecc5b4f04db05ac25b5742.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

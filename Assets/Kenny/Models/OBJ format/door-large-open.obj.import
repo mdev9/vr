@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://qxfos4vn71og"
+path="res://.godot/imported/door-large-open.obj-0ba9c36f409f48e461e236985ce1db5b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/door-large-open.obj-0ba9c36f409f48e461e236985ce1db5b.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/door-large-open.obj"
+dest_files=["res://.godot/imported/door-large-open.obj-0ba9c36f409f48e461e236985ce1db5b.mesh", "res://.godot/imported/door-large-open.obj-0ba9c36f409f48e461e236985ce1db5b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

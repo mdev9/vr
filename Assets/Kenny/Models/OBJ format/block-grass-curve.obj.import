@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvwmujcom75hh"
+path="res://.godot/imported/block-grass-curve.obj-c22fb36ec63d23261e054d0d7102cebd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-grass-curve.obj-c22fb36ec63d23261e054d0d7102cebd.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/block-grass-curve.obj"
+dest_files=["res://.godot/imported/block-grass-curve.obj-c22fb36ec63d23261e054d0d7102cebd.mesh", "res://.godot/imported/block-grass-curve.obj-c22fb36ec63d23261e054d0d7102cebd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

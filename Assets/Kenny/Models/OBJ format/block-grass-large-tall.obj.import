@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dwqokebbfhkga"
+path="res://.godot/imported/block-grass-large-tall.obj-82e6483eca180a7705dcafacbf73f61f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-grass-large-tall.obj-82e6483eca180a7705dcafacbf73f61f.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/block-grass-large-tall.obj"
+dest_files=["res://.godot/imported/block-grass-large-tall.obj-82e6483eca180a7705dcafacbf73f61f.mesh", "res://.godot/imported/block-grass-large-tall.obj-82e6483eca180a7705dcafacbf73f61f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

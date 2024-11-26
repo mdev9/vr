@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2sk7inxmn5f7"
+path="res://.godot/imported/poles.obj-b11679f7a947c6f7bff4f1f1b3e3839b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/poles.obj-b11679f7a947c6f7bff4f1f1b3e3839b.mesh"]
+
+source_file="res://Assets/Kenny/Models/OBJ format/poles.obj"
+dest_files=["res://.godot/imported/poles.obj-b11679f7a947c6f7bff4f1f1b3e3839b.mesh", "res://.godot/imported/poles.obj-b11679f7a947c6f7bff4f1f1b3e3839b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
